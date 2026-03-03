@@ -1,0 +1,5 @@
+后续修改了项目的代码之后 按照如下办法推到github上
+ git add .
+ git commit -m "你的修改说明"
+ git push
+这样之后就可以修改完毕啦
